@@ -1,8 +1,0 @@
-pkg
-dinbrief-*.gem
-Gemfile.lock
-.DS_Store
-.bundle
-.rvmrc
-spec/dummy_app/tmp/*
-example/hello.pdf
